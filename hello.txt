@@ -13,8 +13,5 @@ hello hgp! hello git
 hello hgp! hello git
 hello hgp! hello git
 hello hgp! hello git
-<<<<<<< HEAD
 hello hgp! hello git master test
-=======
-hello hgp! hello git hot-fix test
->>>>>>: hot-fix
+hellp hgp! hello git hot-fix test
